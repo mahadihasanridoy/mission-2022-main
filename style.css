@@ -1,0 +1,104 @@
+.first-section{
+    display:flex;
+    margin-right: 200px;
+    margin-left: 300px;
+    margin-top:200px;
+}
+.div-son h1{
+    font-size: 80px;
+    font-family: 'Acme', sans-serif;
+    
+}
+.son-div{
+    margin-left:50px ;
+}
+.div-son{
+
+    margin-right:200px;
+    font-size: 25px;
+}
+.another-div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.second-sec{
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.first-img{
+    width:450px;
+}
+.parents-div-one{
+    display: flex;
+    margin-left: 300px;
+    
+}
+.illus-photo{
+    width:200px;
+}
+.son-div-one{
+    height: 400px;
+    width:350px;
+    background-color: green;
+    margin-right:30px;
+    border-radius: 30px;
+    padding: 30px;
+    font-size: 20px;
+}
+.son-div-two{
+    height: 400px;
+    width:350px;
+    background-color: brown;
+    margin-right:30px;
+    border-radius: 30px;
+    padding: 30px;
+    font-size: 20px;
+}
+.son-div-three{
+    height:400px;
+    width: 350px;
+    background-color: darkmagenta;
+    border-radius: 30px;
+    padding: 30px;
+    font-size: 20px;
+}
+.second-sec-heading{
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 60px;
+    
+}
+.section-three{
+    display:flex;
+    margin-left:300px;
+    margin-top:100px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.second-img{
+    width:500px;
+}
+.son-div-four{   
+    margin-left: 70px;
+    font-size: 30px;
+    padding-left: 30px;
+    margin-right:200px
+
+}
+.theird-img{
+    width:500px;
+}
+.section-four{
+    display: flex;
+    width: 70%;
+    margin-left: 300px;
+    margin-top:100px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.son-div-sec-four{
+    margin-left: 80px;
+}
+.son-div-sec-for{
+    font-size: 30px;
+}
+
